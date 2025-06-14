@@ -1,5 +1,5 @@
 # Trakora – Track_ Data_ AI_
-![Trakora Logo Small](https://github.com/trakora/.github/assets/logo/trakora_small_purple.png) 
+![Trakora Logo Small](https://github.com/trakora/.github/blob/main/assets/logo/trakora_small_purple.png) 
 
 
 > **Bridge the gap between business & data**  
