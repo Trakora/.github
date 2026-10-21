@@ -45,8 +45,6 @@ We believe that sharing knowledge accelerates innovation. In this organisation y
 
 ## Contact & Links
 - **Website:** <https://trakora.de>  
-- **Blog:** <https://trakora.de/blog>  
-- **Email:** info@trakora.de  
 
 ---
 
