@@ -25,8 +25,6 @@ Our team combines engineering, analytics and sector know-how to **structure data
 | **Data Intelligence & Architecture** | Cloud-native lakehouses, scalable & secure platforms, automated analytics pipelines. |
 | **Advanced Analytics & AI** | Machine-learning and decision-intelligence that transform complex data into business value. |
 
-We also operate **DataCare**, a managed service for mission-critical data infrastructure featuring 24/7 monitoring, SLA-backed response times and proactive optimisation.
-
 ---
 
 ## Open-Source at Trakora
